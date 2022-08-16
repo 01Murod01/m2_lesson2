@@ -54,7 +54,7 @@ body {
 
 .hero__title {
   width: 40%;
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 72px;
   line-height: 72px;
@@ -73,7 +73,7 @@ body {
 }
 
 .hero__link {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 18px;
   line-height: 25px;
@@ -112,7 +112,7 @@ body {
   margin-bottom: 72px;
 }
 .collection__list__item-title {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-style: normal;
   font-weight: 900;
   font-size: 24px;
@@ -144,7 +144,7 @@ body {
 }
 
 .chooseus__title {
-  font-family: "Fraunces 9pt";
+  font-family: "Fraunces", serif;
   font-style: normal;
   font-weight: 900;
   font-size: 40px;
@@ -183,7 +183,7 @@ body {
   margin-bottom: 56px;
 }
 .chooseus__list__item-title {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-style: normal;
   font-weight: 900;
   font-size: 24px;
@@ -206,7 +206,7 @@ body {
   margin-bottom: 200px;
 }
 .work__title {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 24px;
   line-height: 32px;
@@ -230,7 +230,7 @@ body {
   -o-border-radius: 50%;
 }
 .work__object__line {
-  width: 360px;
+  width: 380px;
   height: 2px;
   background: #fdd6ba;
 }
@@ -241,14 +241,14 @@ body {
   list-style-type: none;
 }
 .work__list__item-number {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 72px;
   line-height: 72px;
   color: #fdd6ba;
 }
 .work__list__item-title {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   width: 80%;
   font-weight: 900;
   font-size: 32px;
@@ -267,7 +267,7 @@ body {
   margin-right: 95px;
 }
 .work__link {
-  font-family: "Fraunces" serif;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 18px;
   line-height: 25px;
